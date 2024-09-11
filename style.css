@@ -6,3 +6,23 @@ p.subtitulo-prova{
     text-align: center;
     
 }
+table{
+    border: solid 2px black;
+    border-collapse: collapse;
+    width: 350px;
+}
+tr{
+    border: solid 2px black;
+}
+p.titulo-tabela-prova{
+    margin: 2px;
+    text-align: center;
+}
+p.subtitulo-tabela-prova{
+    margin: 2px;
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
