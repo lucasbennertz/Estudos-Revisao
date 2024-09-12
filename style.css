@@ -9,7 +9,7 @@ p.subtitulo-prova{
 table{
     border: solid 2px black;
     border-collapse: collapse;
-    width: 350px;
+    width: 75%;
 }
 tr{
     border: solid 2px black;
@@ -25,4 +25,8 @@ p.subtitulo-tabela-prova{
 div{
     display: flex;
     justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
