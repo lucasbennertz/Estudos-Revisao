@@ -21,3 +21,22 @@
 .explicacao{
     text-align: left;
 }
+.topico-central{
+    font-size: 20px;
+    margin-bottom: -15px;
+    text-align: center;
+}
+.explicacao-seguida{
+    text-align: left;
+    margin-top: -15px;
+}
+#tabela-prefixos{
+    border: solid black 1px;
+    margin: 20px auto;
+    text-align: center;
+    border-collapse: collapse;
+    width: 50%;
+}
+tr{
+    border: solid black 2px;
+}
