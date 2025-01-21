@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+#title{
+    text-align: center;
+    margin-bottom: -19px;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#subtitle{
+    text-align: center;
+    font-size: 19px;
+    font-family: 'arial';
+}
+.topico{
+    font-size: 20px;
+    margin-bottom: -15px
+}
+#superior{
+    background-color: lightblue;
+    width: 100%;
+    margin-top: -15px;
+}
+.explicacao{
+    text-align: left;
+}
+.topico-central{
+    font-size: 20px;
+    margin-bottom: -15px;
+    text-align: center;
+    font-weight: bold;
+}
+.explicacao-seguida{
+    text-align: left;
+    margin-top: -15px;
+}
+#tabela-prefixos{
+    border: solid black 1px;
+    margin: 20px auto;
+    text-align: center;
+    border-collapse: collapse;
+    width: 50%;
+}
+tr{
+    border: solid black 2px;
+}
